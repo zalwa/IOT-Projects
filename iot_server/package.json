@@ -1,0 +1,22 @@
+{
+  "name": "iot_server_simplified",
+  "version": "1.0.0",
+  "description": "simplified version of the iot server",
+  "main": "app.js",
+  "author": "Wechuli",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "nodemon": "^1.19.1"
+  }
+}
